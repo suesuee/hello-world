@@ -1,2 +1,5 @@
 # hello-world
-My first repository on GitHub. Just testing out features here.
+
+Hi humans!
+
+My first repository on GitHub. Just testing out features here. I am learning Java. 
